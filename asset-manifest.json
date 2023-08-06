@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/finanace-app-1.0/static/css/main.da3089f3.css",
+    "main.js": "/finanace-app-1.0/static/js/main.95548663.js",
+    "index.html": "/finanace-app-1.0/index.html",
+    "main.da3089f3.css.map": "/finanace-app-1.0/static/css/main.da3089f3.css.map",
+    "main.95548663.js.map": "/finanace-app-1.0/static/js/main.95548663.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da3089f3.css",
+    "static/js/main.95548663.js"
+  ]
+}
