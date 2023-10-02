@@ -1,7 +1,6 @@
 # Finance-app
 
-This is a budget app. It helps you to get control over your personal finances. The first version is intended to let you create different budgets or categories and keep track of all of your expenses and income. Tutorial followed to do this app is https://www.youtube.com/watch?v=yz8x71BiGXg 
-
+This is a budget app. It helps you to get control over your personal finances. The first version is intended to let you create different budgets or categories and keep track of all of your expenses and income.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
